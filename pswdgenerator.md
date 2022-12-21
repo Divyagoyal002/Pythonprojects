@@ -12,7 +12,7 @@
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+The password generator creates random passwords based on parameters set by you. Parameters include password length.
 
 #### Technologies
 
@@ -24,7 +24,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 ## How To Use
 
-#### Input number of passweords you want to generate.
+#### Input number of passwords you want to generate.
 #### enter the lenght of the passwords one by one.
 #### you will get the generated password.
 
@@ -33,7 +33,6 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Twitter - [@divyagoyalbg](https://twitter.com/divyagoyalbg)
 
 [Back To The Top](#Pythonprojects)
